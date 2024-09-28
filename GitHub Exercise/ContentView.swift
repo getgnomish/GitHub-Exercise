@@ -17,6 +17,8 @@ struct ContentView: View {
             Text("Version 2.0")
                 .font(.largeTitle)
                 .fontWeight(.black)
+            RoundedRectangle(cornerRadius: 43)
+                
         }
         .padding()
                             
